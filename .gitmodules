@@ -1,0 +1,12 @@
+[submodule "cs6210"]
+	path = cs6210
+	url = https://github.com/nicholasadamou/cs6210
+[submodule "cs6035"]
+	path = cs6035
+	url = https://github.com/nicholasadamou/cs6035
+[submodule "cs6250"]
+	path = cs6250
+	url = https://github.com/nicholasadamou/cs6250
+[submodule "cs6200"]
+	path = cs6200
+	url = https://github.com/nicholasadamou/cs6200
