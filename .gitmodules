@@ -22,3 +22,6 @@
 [submodule "cs6262"]
 	path = cs6262
 	url = https://github.com/nicholasadamou/cs6262
+[submodule "cs6747"]
+	path = cs6747
+	url = https://github.com/nicholasadamou/cs6747
