@@ -25,3 +25,6 @@
 [submodule "cs6747"]
 	path = cs6747
 	url = https://github.com/nicholasadamou/cs6747
+[submodule "cs6515"]
+	path = cs6515
+	url = https://github.com/nicholasadamou/cs6515
